@@ -20,6 +20,10 @@ namespace DesignPatterns.Models
         public double Gas { get; set; }
         public double FuelLimit { get; set; }
 
+        public int Year { get; set; }
+
+
+
         #endregion
 
         #region Constructors
